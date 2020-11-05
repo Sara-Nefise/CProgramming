@@ -1,4 +1,6 @@
 #include <stdio.h>
+//Sara nafissa
+/* Find all digits even numbers between 100-400*/
 
 int main(){
     int x; //temp icinde verinin kopyasi saklanir
